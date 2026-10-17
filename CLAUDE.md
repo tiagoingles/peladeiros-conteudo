@@ -52,6 +52,11 @@ em todo slide.
 
 ## Regras de conteúdo de terceiros (OBRIGATÓRIO)
 - **Nunca** baixar nem repostar vídeo/imagem de YouTube, Instagram, TikTok ou de qualquer pessoa.
+  **Única exceção:** Reels de várzea feitos pelo robô `auto-reels` a partir de vídeos do YouTube com
+  licença **Creative Commons Atribuição (CC BY)** confirmada no próprio vídeo. Eles chegam em
+  `reels-prontos/para-postar/` com um `.txt` cuja linha `🎥 Vídeo original: ...` é o crédito exigido pela
+  licença: essa linha vai **inteira e sem alteração** na legenda publicada (pode reescrever o resto).
+  Sem essa linha, não poste. Nunca use clipe de jogo profissional, react, compilação ou com criança.
 - O "radar" do YouTube/Instagram serve só como **inspiração de pauta**: ver o que está bombando e criar
   uma versão **própria** (texto, carrossel, Reels com tela do app).
 - Imagens só as geradas pelos scripts, gravações em `gravacoes/` (do próprio app) ou vídeos que o
@@ -64,6 +69,8 @@ em todo slide.
    um Reels com ele **no lugar** do carrossel do dia:
    - Entenda o vídeo: nome do arquivo + 4 a 6 frames extraídos com ffmpeg (abra as imagens) + um
      `.txt` com o mesmo nome, se o Tiago tiver deixado a ideia da legenda. Escreva a legenda no tom da página.
+     Se o `.txt` tiver a linha `🎥 Vídeo original: ...` (vídeo CC BY do `auto-reels`), copie essa linha
+     **exatamente igual** para a legenda — é o crédito obrigatório da licença.
    - Se não for `.mp4` H.264, converta com ffmpeg (sem mexer na edição) para `.mp4`.
    - Mova o vídeo (e o `.txt`) com `git mv` para `posts/AAAA-MM-DD-slug/` e crie o `post.json` com
      `"formato": "reels-pronto"`, a legenda e o `"status"`. Commit, push e confira que a URL raw do vídeo
