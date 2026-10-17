@@ -39,7 +39,7 @@ em todo slide.
   - Sem emoji nos slides (a fonte não renderiza; o script remove). Emoji só na legenda.
 - **Reels**: só quando houver gravação nova em `gravacoes/` que ainda não está em `pautas/historico.csv`
   → `python3 scripts/reels.py posts/<pasta>/post.json` (campos no topo do script). Até 30s.
-- Modelo de post.json: `posts/2026-10-20-tipos-de-pagador/post.json`.
+- Modelo de post.json: `posts/2026-10-17-tipos-de-pagador/post.json`.
 
 ## Legenda
 - 1ª linha = gancho (aparece antes do "mais"). Depois 2–4 linhas curtas, uma pergunta pra gerar
