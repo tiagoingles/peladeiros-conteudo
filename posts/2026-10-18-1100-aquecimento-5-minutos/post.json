@@ -1,0 +1,18 @@
+{
+  "data": "2026-10-18",
+  "horario": "11:00",
+  "formato": "carrossel",
+  "pilar": "dicas",
+  "status": "aguardando-aprovacao",
+  "slides": [
+    {"tipo": "capa", "selo": "Dica", "titulo": "Aquecimento de 5 minutos antes da pelada", "subtitulo": "Chegar e já pedir a bola não vale"},
+    {"tipo": "texto", "numero": "1", "titulo": "Trote leve", "texto": "Um minuto correndo devagar em volta da quadra. Só pra esquentar o corpo e o coração entrar no ritmo."},
+    {"tipo": "texto", "numero": "2", "titulo": "Joelho alto e calcanhar no bumbum", "texto": "Trinta segundos de cada. Acorda a coxa e a parte de trás da perna, onde mora a fisgada."},
+    {"tipo": "texto", "numero": "3", "titulo": "Gira quadril e tornozelo", "texto": "Um minuto girando quadril, joelho e tornozelo pros dois lados. A torção agradece."},
+    {"tipo": "texto", "numero": "4", "titulo": "Piques curtos", "texto": "Uns quatro tiros de poucos metros, acelerando e freando. É o que você vai fazer o jogo todo."},
+    {"tipo": "texto", "numero": "5", "titulo": "Bola no pé", "texto": "Fecha com toque curto em dupla. Sentiu dor ou desconforto? Pega leve e procura um profissional."},
+    {"tipo": "cta", "titulo": "Aquecido e organizado", "texto": "No PeladaPro a lista, o sorteio dos times e a partida ao vivo ficam no app. Você só chega e joga."}
+  ],
+  "legenda": "Cinco minutos de aquecimento que salvam tua coxa no segundo tempo 🔥\n\nTrote, joelho alto, giro de tornozelo, piques curtos e bola no pé. Simples assim.\n\nNa tua pelada alguém aquece ou todo mundo já chega pedindo a bola? Comenta aí 👇\n\nOrganiza tua pelada no PeladaPro. Link na bio ⚽\n\n#pelada #futebolamador #society #futsal #dicasdefutebol #peladeiros #racha",
+  "primeiro_comentario": ""
+}

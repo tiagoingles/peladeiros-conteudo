@@ -1,0 +1,17 @@
+{
+  "data": "2026-10-18",
+  "horario": "15:00",
+  "formato": "carrossel",
+  "pilar": "dor-do-organizador",
+  "status": "aguardando-aprovacao",
+  "slides": [
+    {"tipo": "capa", "selo": "Resenha", "titulo": "Confirmou no grupo e não apareceu", "subtitulo": "A saga do furão da pelada"},
+    {"tipo": "texto", "numero": "1", "titulo": "Segunda-feira", "texto": "Primeiro nome da lista. Ainda manda \"bora, tô dentro\" com três emojis de bola."},
+    {"tipo": "texto", "numero": "2", "titulo": "Dia do jogo, 18h", "texto": "Visualizou o grupo e não respondeu. O organizador já sente o cheiro."},
+    {"tipo": "texto", "numero": "3", "titulo": "Na quadra, 20h", "texto": "Time com 9, todo mundo olhando pro celular e o furão offline desde o almoço."},
+    {"tipo": "texto", "numero": "4", "titulo": "No dia seguinte", "texto": "\"Pô, surgiu um imprevisto.\" E a parte dele da quadra? Sobra pro organizador."},
+    {"tipo": "cta", "titulo": "Furão não tem vez", "texto": "No PeladaPro a presença é confirmada no app, você vê quem tá dentro e já sorteia os times com quem veio."}
+  ],
+  "legenda": "Todo grupo de pelada tem um. Se não tem, cuidado: pode ser você 👀\n\nConfirma na segunda, some na quarta e aparece no dia seguinte com um imprevisto.\n\nQual foi a desculpa mais criativa que o furão da tua pelada já deu? Comenta aí 👇\n\nNo PeladaPro a lista de presença, o sorteio e o caixa ficam organizados. Link na bio ⚽\n\n#pelada #peladeiros #futeboldevarzea #resenha #racha #peladadequarta #futebolamador",
+  "primeiro_comentario": ""
+}
