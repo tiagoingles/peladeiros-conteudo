@@ -3,7 +3,7 @@
 Marque com ~~riscado~~ quando a ideia for usada (o histórico também registra).
 
 ## humor
-- O goleiro rodízio: "agora é tua vez" e todo mundo some
+- ~~O goleiro rodízio: "agora é tua vez" e todo mundo some~~
 - Tipos de jogador que toda pelada tem (o fominha, o que reclama de tudo, o que só bate de bico)
 - "Última que sai, primeiro gol ganha": as regras que só existem na pelada
 - Quem trouxe a bola? Ninguém.
