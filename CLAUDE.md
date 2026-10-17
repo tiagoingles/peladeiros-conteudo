@@ -40,6 +40,9 @@ em todo slide.
 - **Reels**: só quando houver gravação nova em `gravacoes/` que ainda não está em `pautas/historico.csv`
   → `python3 scripts/reels.py posts/<pasta>/post.json` (campos no topo do script). Até 30s.
 - Modelo de post.json: `posts/2026-10-17-tipos-de-pagador/post.json`.
+- **Reels prontos do Tiago (PRIORIDADE MÁXIMA)**: vídeos já editados no Google Drive, pasta
+  `Peladeiros - Reels / 1 - Para postar` (id `1gGl46vjaF1u10-N-Ng25mT37cFP0qjOQ`). Não edite o vídeo,
+  só escreva a legenda e agende. Detalhes no passo 0 do fluxo.
 
 ## Legenda
 - 1ª linha = gancho (aparece antes do "mais"). Depois 2–4 linhas curtas, uma pergunta pra gerar
@@ -51,10 +54,25 @@ em todo slide.
 - **Nunca** baixar nem repostar vídeo/imagem de YouTube, Instagram, TikTok ou de qualquer pessoa.
 - O "radar" do YouTube/Instagram serve só como **inspiração de pauta**: ver o que está bombando e criar
   uma versão **própria** (texto, carrossel, Reels com tela do app).
-- Imagens só as geradas pelos scripts ou gravações em `gravacoes/` (do próprio app).
+- Imagens só as geradas pelos scripts, gravações em `gravacoes/` (do próprio app) ou vídeos que o
+  Tiago colocou na pasta do Drive (são dele, pode postar).
 - Não citar marca de terceiros, jogador famoso ou time de forma que pareça parceria.
 
 ## Fluxo de cada execução (tarefa agendada: seg, qua, sex)
+0. **Vídeo pronto no Drive?** Com o conector do Google Drive, busque `parentId = '1gGl46vjaF1u10-N-Ng25mT37cFP0qjOQ'`
+   e `mimeType contains 'video/'`. Se houver, pegue o **mais antigo** (createdTime) e faça um Reels com ele
+   **no lugar** do carrossel do dia:
+   - Tema: use o nome do arquivo e a descrição do arquivo no Drive (o Tiago pode escrever ali a ideia
+     da legenda). Se o nome não disser nada, escreva uma legenda genérica de resenha de pelada + CTA.
+   - Crie `posts/AAAA-MM-DD-slug/post.json` com `"formato": "reels-drive"`, `"drive_id"`, a legenda e
+     `"status"` (não há mídia no repositório).
+   - Agende com `createScheduledPost`: `media` = [`https://drive.google.com/file/d/<ID>/view`] (o
+     Metricool baixa direto do Drive, porque o Drive do Tiago está ligado no Metricool),
+     `instagramData.type = "REEL"`, `showReelOnFeed: true`, `videoCoverMilliseconds: 1000`.
+   - Depois de agendado com sucesso, mova o arquivo para `2 - Postados`
+     (`update_file` com parentId `1eU-xnGYOmqXHamMO_aLlpg5llwBLj-Vl`). Se o agendamento falhar,
+     **não mova** o arquivo e caia para o carrossel normal do dia.
+   - Registre no histórico (pilar = o que mais combinar), commit, push e pule para o passo 9.
 1. `git pull`. Leia `pautas/historico.csv` (o que já saiu) e `pautas/banco-de-ideias.md`.
 2. **Radar (só na segunda)**: pesquise na web o que está em alta sobre pelada/futebol amador
    (YouTube, Instagram, TikTok, notícias da semana). Salve 5–10 ideias com o link da referência em
