@@ -1,0 +1,52 @@
+{
+  "data": "2026-10-19",
+  "horario": "15:00",
+  "formato": "carrossel",
+  "pilar": "humor",
+  "status": "aguardando-aprovacao",
+  "slides": [
+    {
+      "tipo": "capa",
+      "selo": "Resenha",
+      "titulo": "Tipos de jogador que toda pelada tem",
+      "subtitulo": "Marca o parceiro que é o número 3"
+    },
+    {
+      "tipo": "texto",
+      "numero": "1",
+      "titulo": "O fominha",
+      "texto": "Pegou na bola, esqueceu que existe time. Dribla três, perde pro quarto e ainda reclama que ninguém se mexeu."
+    },
+    {
+      "tipo": "texto",
+      "numero": "2",
+      "titulo": "O que reclama de tudo",
+      "texto": "A bola tá murcha, o time tá desequilibrado, a quadra tá lisa. Mas nunca falta uma semana."
+    },
+    {
+      "tipo": "texto",
+      "numero": "3",
+      "titulo": "O do bico",
+      "texto": "Chapa? Peito do pé? Nada disso. É bico com força e fé. E de vez em quando entra."
+    },
+    {
+      "tipo": "texto",
+      "numero": "4",
+      "titulo": "O \"deixa!\"",
+      "texto": "Grita \"deixa\" com toda a confiança do mundo. A bola passa. Ele olha pro lado como se não fosse com ele."
+    },
+    {
+      "tipo": "texto",
+      "numero": "5",
+      "titulo": "O que só ataca",
+      "texto": "Perdeu a bola? Problema da defesa. Ele fica lá na frente esperando o lançamento que nunca chega."
+    },
+    {
+      "tipo": "cta",
+      "titulo": "Todos cabem no time",
+      "texto": "No PeladaPro tem lista de presença, sorteio equilibrado e votação do craque da noite. Até o fominha concorre."
+    }
+  ],
+  "legenda": "Toda pelada tem pelo menos um desses. Se você não achou o seu, talvez seja você 😂\n\nO fominha, o reclamão, o do bico, o \"deixa!\" e o que só ataca.\n\nQual tá faltando nessa lista? Marca o parceiro que é o número 3 👇\n\nOrganiza tua pelada no PeladaPro. Link na bio ⚽\n\n#pelada #resenha #peladeiros #futebolamador #racha #futsal #peladadequarta",
+  "primeiro_comentario": ""
+}

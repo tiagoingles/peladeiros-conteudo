@@ -1,0 +1,17 @@
+{
+  "data": "2026-10-19",
+  "horario": "11:00",
+  "formato": "carrossel",
+  "pilar": "dicas",
+  "status": "aguardando-aprovacao",
+  "slides": [
+    {"tipo": "capa", "selo": "Dica", "titulo": "3 erros de posicionamento no society", "subtitulo": "Correr muito não é jogar bem"},
+    {"tipo": "texto", "numero": "1", "titulo": "Todo mundo atrás da bola", "texto": "Parece pelada de criança: dez caras no mesmo metro quadrado. Segura teu espaço e deixa a bola vir até você."},
+    {"tipo": "texto", "numero": "2", "titulo": "Ninguém volta pra marcar", "texto": "Perdeu a bola, volta. No society o campo é curto e um contra-ataque vira gol em dois toques."},
+    {"tipo": "texto", "numero": "3", "titulo": "Colado no companheiro", "texto": "Se você está do lado de quem tem a bola, você não é opção de passe. Abre, dá linha e chama o jogo."},
+    {"tipo": "texto", "numero": "+", "titulo": "Bônus: conversa", "texto": "Fala em campo. Um \"tá sozinho\" ou \"vira o jogo\" na hora certa vale mais que qualquer pique."},
+    {"tipo": "cta", "titulo": "Time bem posicionado começa no sorteio", "texto": "No PeladaPro o sorteio monta times equilibrados e a lista fica no app. Você só chega e joga."}
+  ],
+  "legenda": "Correr o jogo todo e não pegar na bola? O problema pode ser o posicionamento 👀\n\nTodo mundo atrás da bola, ninguém voltando e o parceiro colado do teu lado. Três erros que todo society tem.\n\nQual desses mais acontece na tua pelada? Comenta aí 👇\n\nOrganiza tua pelada no PeladaPro. Link na bio ⚽\n\n#society #pelada #futebolamador #dicasdefutebol #peladeiros #futeboldevarzea #racha",
+  "primeiro_comentario": ""
+}
