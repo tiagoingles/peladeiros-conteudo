@@ -40,6 +40,15 @@ em todo slide.
 - **Reels**: só quando houver gravação nova em `gravacoes/` que ainda não está em `pautas/historico.csv`
   → `python3 scripts/reels.py posts/<pasta>/post.json` (campos no topo do script). Até 30s.
 - Modelo de post.json: `posts/2026-10-17-tipos-de-pagador/post.json`.
+- **Reels "Quem é o craque?"** (1 por rodada): quiz só com texto e arte da marca →
+  `python scripts/quem_e_o_craque.py posts/<pasta>/post.json` (campos `craque`, `era` = `lenda`|`atual`,
+  3 `dicas` da mais difícil pra mais fácil, `revelacao` opcional). Alterne lenda e craque atual entre as
+  rodadas e não repita craque dos últimos 30 posts (veja o histórico).
+  - **Nada de imagem ou vídeo do jogador**, nem escudo, camisa, logo de clube, liga ou patrocinador.
+  - Dicas = **fatos verificados na web** (títulos, prêmios, recordes, apelido, posição, lance famoso
+    descrito em palavras). Nunca dica sobre aparência física, vida pessoal, polêmica ou escândalo.
+  - Legenda: gancho tipo "Acertou na 1ª dica? Duvido 👀", pede palpite nos comentários, CTA, hashtags
+    (#futebol #quemeocraque #craque #pelada #futebolarte...). Sem linha de crédito (conteúdo próprio).
 - **Reels prontos do Tiago (PRIORIDADE MÁXIMA)**: vídeos já editados que ele sobe em
   `reels-prontos/para-postar/` pelo site do GitHub. Não edite o vídeo (só converta se o formato não
   servir), escreva a legenda e agende. Detalhes no passo 0 do fluxo.
@@ -57,6 +66,9 @@ em todo slide.
   `reels-prontos/para-postar/` com um `.txt` cuja linha `🎥 Vídeo original: ...` é o crédito exigido pela
   licença: essa linha vai **inteira e sem alteração** na legenda publicada (pode reescrever o resto).
   Sem essa linha, não poste. Nunca use clipe de jogo profissional, react, compilação ou com criança.
+  **Jogadores famosos (atuais ou antigos): nunca vídeo/imagem deles**, mesmo marcado como Creative
+  Commons no YouTube (quem sobe raramente é dono da transmissão). Craques entram só no formato
+  "Quem é o craque?" (texto próprio).
 - O "radar" do YouTube/Instagram serve só como **inspiração de pauta**: ver o que está bombando e criar
   uma versão **própria** (texto, carrossel, Reels com tela do app).
 - Imagens só as geradas pelos scripts, gravações em `gravacoes/` (do próprio app) ou vídeos que o
