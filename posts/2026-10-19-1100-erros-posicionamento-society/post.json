@@ -3,7 +3,8 @@
   "horario": "11:00",
   "formato": "carrossel",
   "pilar": "dicas",
-  "status": "aguardando-aprovacao",
+  "status": "agendado",
+  "planner": "https://app.metricool.com/planner/calendar?blogId=6859187&openWithPostUuid=7991327441305357815",
   "slides": [
     {"tipo": "capa", "selo": "Dica", "titulo": "3 erros de posicionamento no society", "subtitulo": "Correr muito não é jogar bem"},
     {"tipo": "texto", "numero": "1", "titulo": "Todo mundo atrás da bola", "texto": "Parece pelada de criança: dez caras no mesmo metro quadrado. Segura teu espaço e deixa a bola vir até você."},
