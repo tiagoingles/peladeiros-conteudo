@@ -3,7 +3,7 @@
   "horario": "15:00",
   "formato": "carrossel",
   "pilar": "dor-do-organizador",
-  "status": "aguardando-aprovacao",
+  "status": "agendado", "planner": "https://app.metricool.com/planner/calendar?blogId=6859187&openWithPostUuid=6593511109548264303",
   "slides": [
     {"tipo": "capa", "selo": "Resenha", "titulo": "Confirmou no grupo e não apareceu", "subtitulo": "A saga do furão da pelada"},
     {"tipo": "texto", "numero": "1", "titulo": "Segunda-feira", "texto": "Primeiro nome da lista. Ainda manda \"bora, tô dentro\" com três emojis de bola."},

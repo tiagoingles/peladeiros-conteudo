@@ -3,7 +3,7 @@
   "horario": "11:00",
   "formato": "carrossel",
   "pilar": "dicas",
-  "status": "aguardando-aprovacao",
+  "status": "agendado", "planner": "https://app.metricool.com/planner/calendar?blogId=6859187&openWithPostUuid=-4651734514132955217",
   "slides": [
     {"tipo": "capa", "selo": "Dica", "titulo": "Aquecimento de 5 minutos antes da pelada", "subtitulo": "Chegar e já pedir a bola não vale"},
     {"tipo": "texto", "numero": "1", "titulo": "Trote leve", "texto": "Um minuto correndo devagar em volta da quadra. Só pra esquentar o corpo e o coração entrar no ritmo."},

@@ -14,5 +14,5 @@
     "views": 60,
     "rights_flag": null
   },
-  "status": "aguardando-aprovacao"
+  "status": "agendado", "planner": "https://app.metricool.com/planner/calendar?blogId=6859187&openWithPostUuid=6074434530288290137"
 }
