@@ -9,5 +9,6 @@
     "channel": "Edu Show",
     "url": "https://youtube.com/shorts/sUybDGKQ5W0"
   },
-  "status": "aguardando-aprovacao"
+  "status": "agendado",
+  "planner": "https://app.metricool.com/planner/calendar?blogId=6859187&openWithPostUuid=459827149411471251"
 }

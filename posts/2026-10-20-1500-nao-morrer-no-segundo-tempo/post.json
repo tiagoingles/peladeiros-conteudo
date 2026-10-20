@@ -3,7 +3,8 @@
   "horario": "15:00",
   "formato": "carrossel",
   "pilar": "dicas",
-  "status": "aguardando-aprovacao",
+  "status": "agendado",
+  "planner": "https://app.metricool.com/planner/calendar?blogId=6859187&openWithPostUuid=-1950072927488620840",
   "slides": [
     {"tipo": "capa", "selo": "Dica", "titulo": "Não morrer no segundo tempo", "subtitulo": "Três cuidados simples pra aguentar o jogo inteiro"},
     {"tipo": "texto", "numero": "1", "titulo": "Come leve antes", "texto": "Nada de fritura ou prato pesado em cima da hora. Um lanche leve e fácil de digerir já faz diferença em quadra."},

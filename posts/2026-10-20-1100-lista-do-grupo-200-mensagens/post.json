@@ -3,7 +3,8 @@
   "horario": "11:00",
   "formato": "carrossel",
   "pilar": "dor-do-organizador",
-  "status": "aguardando-aprovacao",
+  "status": "agendado",
+  "planner": "https://app.metricool.com/planner/calendar?blogId=6859187&openWithPostUuid=4601396747921084052",
   "slides": [
     {"tipo": "capa", "selo": "Resenha", "titulo": "A lista da pelada no grupo", "subtitulo": "Quantas mensagens até fechar 10?"},
     {"tipo": "texto", "numero": "1", "titulo": "O \"eu vou\" sem nome", "texto": "Manda um \"eu vou\" com figurinha. Quem é? Ninguém sabe. Mas pra ele, já conta como presença."},
