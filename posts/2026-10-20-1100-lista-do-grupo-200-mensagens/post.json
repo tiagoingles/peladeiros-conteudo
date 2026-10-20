@@ -1,0 +1,17 @@
+{
+  "data": "2026-10-20",
+  "horario": "11:00",
+  "formato": "carrossel",
+  "pilar": "dor-do-organizador",
+  "status": "aguardando-aprovacao",
+  "slides": [
+    {"tipo": "capa", "selo": "Resenha", "titulo": "A lista da pelada no grupo", "subtitulo": "Quantas mensagens até fechar 10?"},
+    {"tipo": "texto", "numero": "1", "titulo": "O \"eu vou\" sem nome", "texto": "Manda um \"eu vou\" com figurinha. Quem é? Ninguém sabe. Mas pra ele, já conta como presença."},
+    {"tipo": "texto", "numero": "2", "titulo": "O que pergunta de novo", "texto": "Tá no grupo desde ontem. Mesmo assim pergunta a hora, a quadra e se é pra levar chuteira."},
+    {"tipo": "texto", "numero": "3", "titulo": "O dos áudios", "texto": "A lista fica enterrada entre 40 áudios de dois minutos. Quando alguém tenta ler, a conversa já passou."},
+    {"tipo": "texto", "numero": "4", "titulo": "A conta que nunca fecha", "texto": "Conta 9, 10, 11 e fala que tá fechado. Aí aparece mais um e a conta muda de novo."},
+    {"tipo": "texto", "numero": "5", "titulo": "O que cobra o do outro", "texto": "Não confirma o próprio nome, mas cobra o do parceiro. Chega no dia com o time pela metade."},
+    {"tipo": "cta", "titulo": "Lista sem bagunça", "texto": "No PeladaPro a presença é confirmada num clique. Quem vai, quem não vai e quantos faltam, sem 200 mensagens."}
+  ],
+  "legenda": "Quantas mensagens você já gastou pra fechar uma pelada? 😅\n\nQual é o pior tipo de lista que você já viu? Conta aí nos comentários e marca o parceiro que sempre fala \"eu vou\" 👇\n\nCansou de lista no grupo? O PeladaPro resolve: presença, sorteio e partida ao vivo. Link na bio.\n\n#pelada #futebolamador #peladeiros #racha #society #resenha #peladadequarta"
+}

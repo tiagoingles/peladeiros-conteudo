@@ -1,0 +1,17 @@
+{
+  "data": "2026-10-20",
+  "horario": "15:00",
+  "formato": "carrossel",
+  "pilar": "dicas",
+  "status": "aguardando-aprovacao",
+  "slides": [
+    {"tipo": "capa", "selo": "Dica", "titulo": "Não morrer no segundo tempo", "subtitulo": "Três cuidados simples pra aguentar o jogo inteiro"},
+    {"tipo": "texto", "numero": "1", "titulo": "Come leve antes", "texto": "Nada de fritura ou prato pesado em cima da hora. Um lanche leve e fácil de digerir já faz diferença em quadra."},
+    {"tipo": "texto", "numero": "2", "titulo": "Bebe água antes, não só depois", "texto": "Chegar na quadra já com sede é sinal de atraso. Goles pequenos ao longo do dia rendem mais do que um litro de uma vez."},
+    {"tipo": "texto", "numero": "3", "titulo": "Não sai queimando", "texto": "Corre no teu ritmo, não no do craque do grupo. Quem gasta tudo no primeiro tempo sente no final."},
+    {"tipo": "texto", "numero": "4", "titulo": "Pausa rápida sem vergonha", "texto": "Uma parada na linha lateral, respira fundo e volta. Não é fraqueza, é estratégia de quem quer jogar até o fim."},
+    {"tipo": "texto", "numero": "5", "titulo": "Se der sinal de alerta, para", "texto": "Tontura, dor no peito ou falta de ar forte: para o jogo e procura um profissional. Pelada é diversão, não emergência."},
+    {"tipo": "cta", "titulo": "Organiza a pelada, cuida do resto", "texto": "No PeladaPro você monta a lista, sorteia os times e acompanha a partida ao vivo. Link na bio."}
+  ],
+  "legenda": "Sentiu as pernas pesadas no segundo tempo? Nem sempre é falta de treino 😮‍💨\n\nQual é o seu truque pra aguentar o jogo todo? Conta aí nos comentários 👇\n\nO organizador cuida do time, o PeladaPro cuida do resto. Link na bio ⚽\n\n#futsal #futebolamador #pelada #society #peladeiros #futeboldevarzea #resenha"
+}
