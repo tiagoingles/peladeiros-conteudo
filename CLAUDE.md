@@ -53,6 +53,15 @@ em todo slide.
   `reels-prontos/para-postar/` pelo site do GitHub. Não edite o vídeo (só converta se o formato não
   servir), escreva a legenda e agende. Detalhes no passo 0 do fluxo.
 
+## Fase de crescimento (vale até a página passar de ~300 seguidores)
+- **Só Reels, 1 por dia às 19h.** Carrosséis e posts de feed pausados (com 0 seguidores não aparecem pra ninguém).
+- **Agendar como Reels de teste:** `instagramData.type = "TRIAL_REEL"` (mostra primeiro pra quem não segue).
+  Todo post na fila com `"instagram_type": "TRIAL_REEL"` deve ser agendado assim.
+- **12–15 s**, lance nos primeiros 3–5 s, **gancho específico no 1º segundo** (nada de "Olha esse lance!").
+- Prioridade de conteúdo: 1) vídeos da pelada do Tiago e de organizadores parceiros (com autorização),
+  2) "Quem é o craque?", 3) várzea CC BY como complemento.
+- **Nunca** vídeo de jogador famoso, seleção, clube profissional ou transmissão de TV, nem "com autorização".
+
 ## Legenda
 - 1ª linha = gancho (aparece antes do "mais"). Depois 2–4 linhas curtas, uma pergunta pra gerar
   comentário ("qual é o pior na tua pelada?"), CTA "link na bio".
